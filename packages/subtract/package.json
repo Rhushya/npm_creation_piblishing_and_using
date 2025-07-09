@@ -1,0 +1,10 @@
+{
+  "name": "@rhushya/subtract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhushya/npm_creation_piblishing_and_using.git"
+  },
+  "author": "rhushya"
+} 
